@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 💻 Tech:
 - Proficient in RDBMS, NoSQL, and database performance tuning.
-- Experienced in backend development with **SQL**, **Python**, and **Java**.
+- Experienced in backend development with **SQL**, **Python** and **Java**.
 - Still learning Java, JavaScript, Python, Flutter, SQL and everything!
 - Skilled in **CI/CD pipelines**, **IaC tools** like Terraform and cloud platforms like **AWS** and **Azure**.
 
