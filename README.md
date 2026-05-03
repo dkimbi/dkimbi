@@ -3,7 +3,7 @@ dkimbi/dkimbi is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-👋 Hi, I'm **Didimus**, a passionate **Database Engineer** and **Software Developer** with over 8 years of experience in designing, developing, and optimizing database systems. I specialize in leveraging both on-premises and cloud-based solutions to deliver scalable, secure, and efficient systems.
+👋 Hi, I'm a passionate **Database Engineer** and **Software Developer** with over 8 years of experience in designing, developing, and optimizing database systems. I specialize in leveraging both on-premises and cloud-based solutions to deliver scalable, secure, and efficient systems.
 
 💻 Tech:
 - Proficient in RDBMS, NoSQL, and database performance tuning.
